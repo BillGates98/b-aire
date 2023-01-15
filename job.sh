@@ -1,0 +1,48 @@
+# Dependencies
+pip install scispacy
+pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.0/en_core_sci_sm-0.5.0.tar.gz
+pip install tensorflow
+pip install numpy
+pip install nltk
+pip install enchant
+pip install argparse
+pip install pandas
+pip ast
+
+# 1. Building dictionary
+cd ./base/
+# import data file './base/dictionary/text_annotation.sql' in Mysql DBMS
+# please configure the './config/config.json' file for the next
+python3.8 ./analysis.py # show the analysis of the data
+
+# 2.  Build NFRs
+python3.8 ./textannotation.py # compute the NFRs vector
+python3.8 ./acceptation.py # réalise une repartition statistique des données du dictionnaire par leurs  longueurs
+
+#3. Build prediction model
+cd ../machine_learning/
+python3.8 ./main.py
+# 3. Make recognition on entities : B-aire and SciSpacy
+# - B-aire
+cd ../b_aire/
+python3.8 ./main.py
+# - SciSpacy
+cd ../spacy_annotation/
+python3.8 ./main.py
+
+# - Hunflair
+# use this notebook available on colab because the Hunflair require CUDA environment :
+# copy the data file located at ./outputs/data/data.json inside some folder in your 
+# google drive and give its location inside the program and set the output to point inside the same directory even with the same name if you want*  
+# https://colab.research.google.com/drive/15xXj7BWPW5MwoYo9nQVNN-tZ3Du27RIG?usp=sharing 
+
+# Condition for evaluation
+cd ../evaluation
+python3.8 ./score_computation.py
+
+cd ./visualization
+python3.8 ./plot.py
+
+cd ../../
+
+echo "End of Running !"

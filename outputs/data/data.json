@@ -1,0 +1,1128 @@
+{
+  "0": {
+    "sentence": "Inhibition of dexamethasone binding to human glucocorticoid receptor by New World primate cell extracts",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "1": {
+    "sentence": " \nTo determine if New World primates express an inhibitor that influences glucocorticoid receptor (GR) binding characteristics, we examined [3H]dexamethasone binding in cytosol prepared from B95-8 lymphoid cells, derived from the cotton top tamarin (Saguinus oedipus), in combination with cytosol prepared from human or rat tissues",
+    "annotation": { "B95-8": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "glucocorticoid receptor": "[('Protein', 1)]",
+      "GR": "[('Protein', 1)]"
+    }
+  },
+  "2": {
+    "sentence": " B95-8 cytosol inhibited specific binding of [3H]dexamethasone (P < 0",
+    "annotation": { "B95-8": "[('Protein', 0.0012379655)]" },
+    "spacy_annotation": {}
+  },
+  "3": {
+    "sentence": "01) when mixed with cytosol prepared from either a human lymphoid cell line (HL) or rat thymus",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "4": {
+    "sentence": " The inhibitory activity was heat labile and trypsin sensitive",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "5": {
+    "sentence": " Peak inhibitory activity was found in the 150-200 kd fractions after Sephacryl G-200 ultrafiltration",
+    "annotation": { "G-200": "[('Protein', 0.0077873864)]" },
+    "spacy_annotation": {}
+  },
+  "6": {
+    "sentence": " Scatchard analysis of [3H]dexamethasone binding using mixed cytosol showed a diminished GR apparent binding affinity when compared to HL cytosol",
+    "annotation": {},
+    "spacy_annotation": { "GR": "[('Protein', 1)]" }
+  },
+  "7": {
+    "sentence": " Kinetic studies using mixed cytosol indicated that B95-8 cytosol did not affect the apparent dissociation rate of [3H]dexamethasone",
+    "annotation": { "B95-8": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "B95-8": "[('Protein', 1)]" }
+  },
+  "8": {
+    "sentence": " These data demonstrate that B95-8 cells contain a competitive inhibitor that prevents binding of dexamethasone to its cognate receptor",
+    "annotation": { "B95-8": "[('Protein', 0.0)]" },
+    "spacy_annotation": {}
+  },
+  "9": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "10": {
+    "sentence": "E1A gene expression induces susceptibility to killing by NK cells following immortalization but not adenovirus infection of human cells",
+    "annotation": { "E1A": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "E1A": "[('Protein', 1)]" }
+  },
+  "11": {
+    "sentence": " \nAdenovirus (Ad) infection and E1A transfection were used to model changes in susceptibility to NK cell killing caused by transient vs stable E1A expression in human cells",
+    "annotation": { "E1A": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "E1A": "[('Protein', 1)]" }
+  },
+  "12": {
+    "sentence": " Only stably transfected target cells exhibited cytolytic susceptibility, despite expression of equivalent levels of E1A proteins in Ad-infected targets",
+    "annotation": { "E1A": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "E1A": "[('Protein', 1)]" }
+  },
+  "13": {
+    "sentence": " The inability of E1A gene products to induce cytolytic susceptibility during infection was not explained by an inhibitory effect of viral infection on otherwise susceptible target cells or by viral gene effects on class I MHC antigen expression on target cells",
+    "annotation": { "E1A": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "E1A": "[('Protein', 1)]",
+      "class I MHC antigen": "[('Protein', 1)]"
+    }
+  },
+  "14": {
+    "sentence": " This differential effect of E1A expression on the cytolytic phenotypes of infected and stably transfected human cells suggests that human NK cells provide an effective immunologic barrier against the in vivo survival and neoplastic progression of E1A-immortalized cells that may emerge from the reservoir of persistently infected cells in the human host",
+    "annotation": { "E1A": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "E1A": "[('Protein', 1)]" }
+  },
+  "15": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "16": {
+    "sentence": "Activation of STAT5 by IL-4 relies on Janus kinase function but not on receptor tyrosine phosphorylation, and can contribute to both cell proliferation and gene regulation",
+    "annotation": { "IL-4": "[('Protein', 0.0012755139)]" },
+    "spacy_annotation": {
+      "STAT5": "[('Protein', 1)]",
+      "IL-4": "[('Protein', 1)]",
+      "Janus kinase": "[('Protein', 1)]"
+    }
+  },
+  "17": {
+    "sentence": " \nWe have investigated mechanisms and consequences of STAT5 activation through the human IL-4 receptor (IL-4R)",
+    "annotation": {
+      "IL-4": "[('Protein', 0.0)]",
+      "IL-4R": "[('Protein', 0.00079762645)]"
+    },
+    "spacy_annotation": {
+      "STAT5": "[('Protein', 1)]",
+      "IL-4R": "[('Protein', 1)]"
+    }
+  },
+  "18": {
+    "sentence": " By functionally expressing receptor mutants in the murine pro-B cell line Ba/F3, we could show that phosphorylated tyrosine residues within the IL-4R alpha chain are dispensable for IL-4-induced STAT5 activity",
+    "annotation": { "F3": "[('Protein', 0.0)]", "IL-4R": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "IL-4R alpha chain": "[('Protein', 1)]",
+      "STAT5": "[('Protein', 1)]"
+    }
+  },
+  "19": {
+    "sentence": " However, disruption of a membrane-proximal proline-rich sequence motif ('box1') in either subunit of the bipartite IL-4R abolished not only ligand-induced tyrosine phosphorylation of Janus kinases JAK1 and JAK3, but also IL-4-triggered activation of STAT5 and concomitant cell proliferation",
+    "annotation": { "IL-4R": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "IL-4R": "[('Protein', 1)]",
+      "Janus kinases JAK1": "[('Protein', 1)]",
+      "JAK3": "[('Protein', 1)]",
+      "STAT5": "[('Protein', 1)]"
+    }
+  },
+  "20": {
+    "sentence": " A dominant-negative version of STAT5b, but not of STAT5a, interfered with IL-4-induced DNA synthesis in Ba/F3 cells, suggesting an involvement of STAT5b in the control of cell proliferation through IL-4R",
+    "annotation": {
+      "F3": "[('Protein', 0.0)]",
+      "IL-4R": "[('Protein', 0.05091365)]"
+    },
+    "spacy_annotation": {
+      "STAT5b": "[('Protein', 1)]",
+      "STAT5a": "[('Protein', 1)]",
+      "IL-4R": "[('Protein', 1)]"
+    }
+  },
+  "21": {
+    "sentence": " Reporter gene experiments finally showed that transcription from promoters of STAT5 target genes can be specifically induced by challenging cells with IL-4, and that both STAT5a and STAT5b can contribute to IL-4-triggered transcriptional control",
+    "annotation": { "IL-4": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "STAT5": "[('Protein', 1)]",
+      "IL-4": "[('Protein', 1)]",
+      "STAT5a": "[('Protein', 1)]",
+      "STAT5b": "[('Protein', 1)]",
+      "IL-4-triggered": "[('Protein', 1)]"
+    }
+  },
+  "22": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "23": {
+    "sentence": "The 56-59-kilodalton protein identified in untransformed steroid receptor complexes is a unique protein that exists in cytosol in a complex with both the 70- and 90-kilodalton heat shock proteins",
+    "annotation": {},
+    "spacy_annotation": {
+      "56-59-kilodalton protein": "[('Protein', 1)]",
+      "90-kilodalton heat shock proteins": "[('Protein', 1)]"
+    }
+  },
+  "24": {
+    "sentence": " \nIt has previously been shown that 9S, untransformed progestin, estrogen, androgen, and glucocorticoid receptor complexes in rabbit uterine and liver cytosols contain a 59-kDa protein [Tai, P",
+    "annotation": {},
+    "spacy_annotation": {
+      "progestin": "[('Protein', 1)]",
+      "glucocorticoid receptor complexes": "[('Protein', 1)]",
+      "59-kDa protein": "[('Protein', 1)]"
+    }
+  },
+  "25": {
+    "sentence": "K",
+    "annotation": {},
+    "spacy_annotation": { "K": "[('Protein', 1)]" }
+  },
+  "26": { "sentence": ", Maeda, Y", "annotation": {}, "spacy_annotation": {} },
+  "27": { "sentence": ", Nakao, K", "annotation": {}, "spacy_annotation": {} },
+  "28": { "sentence": ", Wakim, N", "annotation": {}, "spacy_annotation": {} },
+  "29": { "sentence": "G", "annotation": {}, "spacy_annotation": {} },
+  "30": {
+    "sentence": ", Duhring, J",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "31": { "sentence": "L", "annotation": {}, "spacy_annotation": {} },
+  "32": {
+    "sentence": ", & Faber, L",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "33": { "sentence": "E", "annotation": {}, "spacy_annotation": {} },
+  "34": {
+    "sentence": "(1986) Biochemistry 25, 5269-5275]",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "35": {
+    "sentence": " In this work we show that the monoclonal antibody KN 382/EC1 raised against the rabbit 59-kDa protein reacts with 9S, untransformed glucocorticoid receptor complexes in cytosol prepared from human IM-9 lymphocytes but not with 4S salt-transformed receptors",
+    "annotation": { "EC1": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "rabbit 59-kDa protein": "[('Protein', 1)]" }
+  },
+  "36": {
+    "sentence": " The human protein recognized by the EC1 antibody is a 56-kDa protein (p56) of moderate abundance located predominantly in the cytoplasm by indirect immunofluorescence",
+    "annotation": { "EC1": "[('Protein', 0.0)]", "p56": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "p56": "[('Protein', 1)]" }
+  },
+  "37": {
+    "sentence": " There are at least six isomorphs of p56 by two-dimensional gel analysis",
+    "annotation": { "p56": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "p56": "[('Protein', 1)]" }
+  },
+  "38": {
+    "sentence": " N-Terminal sequencing (20 amino acids) shows that p56 is a unique human protein",
+    "annotation": { "p56": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "p56": "[('Protein', 1)]" }
+  },
+  "39": {
+    "sentence": " When p56 is immunoadsorbed from IM-9 cell cytosol, both the 70- and 90-kDa heat shock proteins are coadsorbed in an immune-specific manner",
+    "annotation": { "p56": "[('Protein', 0.0013296766)]" },
+    "spacy_annotation": {
+      "p56": "[('Protein', 1)]",
+      "90-kDa heat shock proteins": "[('Protein', 1)]"
+    }
+  },
+  "40": {
+    "sentence": " Neither heat shock protein reacts directly with the EC1 antibody",
+    "annotation": { "EC1": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "heat shock protein reacts": "[('Protein', 1)]" }
+  },
+  "41": {
+    "sentence": " We conclude that p56 exists in cytosol in a higher order complex containing hsp70 and hsp90, both of which in turn have been found to be associated with untransformed steroid receptors",
+    "annotation": { "p56": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "p56": "[('Protein', 1)]",
+      "hsp70": "[('Protein', 1)]",
+      "hsp90": "[('Protein', 1)]"
+    }
+  },
+  "42": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "43": {
+    "sentence": "FK506 and ciclosporin: molecular probes for studying intracellular signal transduction",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "44": {
+    "sentence": " \nThe immunosuppressants ciclosporin and FK506 block the Ca(2+)-dependent signal-transduction pathway emanating from the T-cell receptor, thereby inhibiting the activation of helper T cells",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "45": {
+    "sentence": " Using these drugs as probes, chemists and biologists have uncovered several intracellular signalling molecules bridging the generation of second-messenger Ca2+ ions and the transcriptional activation of IL-2, among which are calmodulin, calcineurin and the nuclear factor of activated T cells (NF-AT)",
+    "annotation": {
+      "Ca2+": "[('Protein', 0.0)]",
+      "IL-2": "[('Protein', 0.0)]"
+    },
+    "spacy_annotation": {
+      "second-messenger Ca2+": "[('Protein', 1)]",
+      "IL-2": "[('Protein', 1)]",
+      "calmodulin": "[('Protein', 1)]",
+      "calcineurin": "[('Protein', 1)]"
+    }
+  },
+  "46": {
+    "sentence": " Hence, Ca2+ binds to calmodulin, leading to the binding of calmodulin to calcineurin; the activated calcineurin, in turn, may dephosphorylate the cytoplasmic subunit of NF-AT, resulting in its translocation from the cytoplasm into the nucleus to form a competent transcriptional activator",
+    "annotation": { "Ca2+": "[('Protein', 0.0012755139)]" },
+    "spacy_annotation": {
+      "calmodulin": "[('Protein', 1)]",
+      "calcineurin": "[('Protein', 1)]",
+      "NF-AT": "[('Protein', 1)]"
+    }
+  },
+  "47": {
+    "sentence": " As described by Jun Liu, these drugs manifest their effects in an unprecedented fashion",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "48": {
+    "sentence": " They do not directly intercept intracellular signalling molecules",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "49": {
+    "sentence": " Instead, they form tight complexes with two different classes of abundant cytosolic receptors called immunophilins upon entering the cell, and consequently inhibit their peptidyl prolyl cis-trans isomerase activities",
+    "annotation": {},
+    "spacy_annotation": {
+      "immunophilins": "[('Protein', 1)]",
+      "peptidyl prolyl cis-trans isomerase": "[('Protein', 1)]"
+    }
+  },
+  "50": {
+    "sentence": " The two structurally distinct immunophilin-drug complexes bind to, and inhibit, the phosphatase activity of calcineurin",
+    "annotation": {},
+    "spacy_annotation": { "calcineurin": "[('Protein', 1)]" }
+  },
+  "51": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "52": {
+    "sentence": "Characterization of a CD43/leukosialin-mediated pathway for inducing apoptosis in human T-lymphoblastoid cells",
+    "annotation": { "CD43": "[('Protein', 0.002998238)]" },
+    "spacy_annotation": {}
+  },
+  "53": {
+    "sentence": " \nThe monoclonal antibody (mAb) J393 induces apoptosis in Jurkat T-cells",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "54": {
+    "sentence": " NH2-terminal amino acid sequence analysis identified the 140-kDa surface antigen for mAb J393 as CD43/leukosialin, the major sialoglycoprotein of leukocytes",
+    "annotation": { "CD43": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "140-kDa surface antigen": "[('Protein', 1)]",
+      "CD43/leukosialin": "[('Protein', 1)]"
+    }
+  },
+  "55": {
+    "sentence": " While Jurkat cells co-expressed two discrete cell-surface isoforms of CD43, recognized by mAb J393 and mAb G10-2, respectively, only J393/CD43 signaled apoptosis",
+    "annotation": { "CD43": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "cell-surface": "[('Protein', 1)]",
+      "CD43": "[('Protein', 1)]",
+      "G10-2": "[('Protein', 1)]"
+    }
+  },
+  "56": {
+    "sentence": " J393/CD43 was found to be hyposialylated, bearing predominantly O-linked monosaccharide glycans, whereas G10-2/CD43 bore complex sialylated tetra- and hexasaccharide chains",
+    "annotation": { "CD43": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "O-linked monosaccharide glycans": "[('Protein', 1)]",
+      "G10-2/CD43 bore complex": "[('Protein', 1)]",
+      "hexasaccharide chains": "[('Protein', 1)]"
+    }
+  },
+  "57": {
+    "sentence": " Treatment with soluble, bivalent mAb J393 killed 25-50% of the cell population, while concomitant engagement of either the CD3",
+    "annotation": { "CD3": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "CD3": "[('Protein', 1)]" }
+  },
+  "58": {
+    "sentence": "TcR complex or the integrins CD18 and CD29 significantly potentiated this effect",
+    "annotation": {
+      "CD18": "[('Protein', 0.0)]",
+      "CD29": "[('Protein', 0.0)]"
+    },
+    "spacy_annotation": {
+      "TcR": "[('Protein', 1)]",
+      "CD18": "[('Protein', 1)]",
+      "CD29": "[('Protein', 1)]"
+    }
+  },
+  "59": {
+    "sentence": " Treatment of Jurkat cells with mAb J393 induced tyrosine phosphorylation of specific protein substrates that underwent hyperphosphorylation upon antigen receptor costimulation",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "60": {
+    "sentence": " Tyrosine kinase inhibition by herbimycin A diminished J393/CD43-mediated apoptosis, whereas inhibition of phosphotyrosine phosphatase activity by bis(maltolato)oxovanadium-IV enhanced cell death",
+    "annotation": { "CD43-mediated": "[('Protein', 0.05407556)]" },
+    "spacy_annotation": {}
+  },
+  "61": {
+    "sentence": " Signal transduction through tyrosine kinase activation may lead to altered gene expression, as J393/CD43 ligation prompted decreases in the nuclear localization of the transcriptional regulatory protein NF-kappaB and proteins binding the interferon-inducible regulatory element",
+    "annotation": { "CD43": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "NF-kappaB": "[('Protein', 1)]" }
+  },
+  "62": {
+    "sentence": " Since peripheral blood T-lymphocytes express cryptic epitopes for mAb J393, these findings demonstrate the existence of a tightly regulated CD43-mediated pathway for inducing apoptosis in human T-cell lineages",
+    "annotation": { "CD43-mediated": "[('Protein', 0.052925043)]" },
+    "spacy_annotation": {}
+  },
+  "63": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "64": {
+    "sentence": "Glucocorticoid receptors are down-regulated in inflamed colonic mucosa but not in peripheral blood mononuclear cells from patients with inflammatory bowel disease [see comments] \nBACKGROUND: Growing evidence indicates that the immune system and the hypothalamic-pituitary-adrenal system are linked by several mechanisms, for example intracellular glucocorticoid receptors (hGR)",
+    "annotation": {},
+    "spacy_annotation": {
+      "Glucocorticoid receptors": "[('Protein', 1)]",
+      "hGR": "[('Protein', 1)]"
+    }
+  },
+  "65": {
+    "sentence": " Glucocorticoids are the standard treatment of acute attacks of inflammatory bowel disease (IBD)",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "66": {
+    "sentence": " Binding of glucocorticoids to hGR down-regulates the transcription of inflammatory genes that can propagate IBD",
+    "annotation": {},
+    "spacy_annotation": { "hGR": "[('Protein', 1)]" }
+  },
+  "67": {
+    "sentence": " PATIENTS AND METHODS: IBD patients were either treated with 5-60 mg of prednisolone for more than 1 week or were without glucocorticoid treatment for more than 4 weeks",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "68": {
+    "sentence": " hGR levels were determined from isolated cytosol of peripheral blood mononuclear cells (PBMCs) or mucosal biopsies using a radioassay with [3H]-dexamethasone",
+    "annotation": {},
+    "spacy_annotation": { "hGR": "[('Protein', 1)]" }
+  },
+  "69": {
+    "sentence": " Interleukin (IL) 6 levels were determined by enzyme-linked immunosorbent assay (ELISA)",
+    "annotation": {},
+    "spacy_annotation": { "Interleukin (IL) 6": "[('Protein', 1)]" }
+  },
+  "70": {
+    "sentence": " RESULTS: The systemic (PBMC) hGR levels of corticosteroid-treated IBD patients were significantly lower than those of control subjects (59",
+    "annotation": {},
+    "spacy_annotation": { "hGR": "[('Protein', 1)]" }
+  },
+  "71": { "sentence": "6 +/- 57", "annotation": {}, "spacy_annotation": {} },
+  "72": {
+    "sentence": "1 dpm mg-1 cytosol protein vs",
+    "annotation": { "mg-1": "[('Protein', 0.0012755139)]" },
+    "spacy_annotation": {}
+  },
+  "73": { "sentence": " 227", "annotation": {}, "spacy_annotation": {} },
+  "74": { "sentence": "0 +/- 90", "annotation": {}, "spacy_annotation": {} },
+  "75": {
+    "sentence": "8 dpm mg-1 cytosol protein, P = 0",
+    "annotation": { "mg-1": "[('Protein', 0.0012755139)]" },
+    "spacy_annotation": {}
+  },
+  "76": {
+    "sentence": "007) and IBD patients not receiving glucocorticoid treatment (179",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "77": { "sentence": "7 +/- 171", "annotation": {}, "spacy_annotation": {} },
+  "78": {
+    "sentence": "3 dpm mg-1 cytosol protein, P = 0",
+    "annotation": { "mg-1": "[('Protein', 0.0012755139)]" },
+    "spacy_annotation": {}
+  },
+  "79": { "sentence": "002)", "annotation": {}, "spacy_annotation": {} },
+  "80": {
+    "sentence": " Systemic hGR levels in untreated IBD patients did not differ significantly from those in control subjects",
+    "annotation": {},
+    "spacy_annotation": { "hGR": "[('Protein', 1)]" }
+  },
+  "81": {
+    "sentence": " In patients with connective tissue diseases, systemic hGR levels were also found to be decreased in the absence of glucocorticoid treatment",
+    "annotation": {},
+    "spacy_annotation": { "hGR": "[('Protein', 1)]" }
+  },
+  "82": {
+    "sentence": " Systemic hGR levels in patients with Crohn's disease (CD) treated with steroids (66",
+    "annotation": {},
+    "spacy_annotation": { "hGR": "[('Protein', 1)]" }
+  },
+  "83": { "sentence": "6 +/- 61", "annotation": {}, "spacy_annotation": {} },
+  "84": {
+    "sentence": "0 dpm mg-1 cytosol protein) were not different from those in patients with ulcerative colitis (UC) (56",
+    "annotation": { "mg-1": "[('Protein', 0.0012755139)]" },
+    "spacy_annotation": {}
+  },
+  "85": { "sentence": "1 +/- 51", "annotation": {}, "spacy_annotation": {} },
+  "86": {
+    "sentence": "6 dpm mg-1 cytosol protein)",
+    "annotation": { "mg-1": "[('Protein', 0.0012755139)]" },
+    "spacy_annotation": {}
+  },
+  "87": {
+    "sentence": " In contrast to these findings, mucosal hGR levels were significantly decreased in both steroid-treated (18",
+    "annotation": {},
+    "spacy_annotation": { "hGR": "[('Protein', 1)]" }
+  },
+  "88": { "sentence": "0 +/- 15", "annotation": {}, "spacy_annotation": {} },
+  "89": {
+    "sentence": "5) and not steroid-treated (37",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "90": { "sentence": "8 +/- 30", "annotation": {}, "spacy_annotation": {} },
+  "91": {
+    "sentence": "5) patients compared with control subjects ( 125",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "92": { "sentence": "6 +/- 97", "annotation": {}, "spacy_annotation": {} },
+  "93": { "sentence": "1; P = 0", "annotation": {}, "spacy_annotation": {} },
+  "94": {
+    "sentence": "00009 and P = 0",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "95": {
+    "sentence": "0008 respectively )",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "96": {
+    "sentence": " IL-6 levels in all IBD groups with and without steroids were significantly different from those in control subjects",
+    "annotation": { "IL-6": "[('Protein', 0.0)]" },
+    "spacy_annotation": {}
+  },
+  "97": {
+    "sentence": " CONCLUSION: In IBD there is no difference in systemic hGR levels between not steroid-treated patients and control subjects, in spite of inflammatory activity (IL-6)",
+    "annotation": { "IL-6": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "hGR": "[('Protein', 1)]" }
+  },
+  "98": {
+    "sentence": " Mucosal hGR levels were decreased independently of treatment, probably leading to a decreased protection against NF-kappaB action in the intestinal mucosa",
+    "annotation": {},
+    "spacy_annotation": {
+      "hGR": "[('Protein', 1)]",
+      "NF-kappaB": "[('Protein', 1)]"
+    }
+  },
+  "99": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "100": {
+    "sentence": "Staphylococcal enterotoxins modulate interleukin 2 receptor expression and ligand-induced tyrosine phosphorylation of the Janus protein-tyrosine kinase 3 (Jak3) and signal transducers and activators of transcription (Stat proteins)",
+    "annotation": {},
+    "spacy_annotation": {
+      "interleukin 2 receptor": "[('Protein', 1)]",
+      "ligand-induced tyrosine": "[('Protein', 1)]",
+      "Janus protein-tyrosine kinase 3": "[('Protein', 1)]",
+      "Jak3": "[('Protein', 1)]",
+      "signal transducers": "[('Protein', 1)]",
+      "Stat": "[('Protein', 1)]"
+    }
+  },
+  "101": {
+    "sentence": " \nStaphylococcal enterotoxins (SE) stimulate T cells expressing the appropriate variable region beta chain of (V beta) T-cell receptors and have been implicated in the pathogenesis of several autoimmune diseases",
+    "annotation": {},
+    "spacy_annotation": { "V beta) T-cell receptors": "[('Protein', 1)]" }
+  },
+  "102": {
+    "sentence": " Depending on costimulatory signals, SE induce either proliferation or anergy in T cells",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "103": {
+    "sentence": " In addition, SE can induce an interleukin-2 (IL-2) nonresponsive state and apoptosis",
+    "annotation": { "IL-2": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "interleukin-2": "[('Protein', 1)]" }
+  },
+  "104": {
+    "sentence": " Here, we show that SE induce dynamic changes in the expression of and signal transduction through the IL-2 receptor (IL-2R) beta and gamma chains (IL-2R beta and IL-2R gamma) in human antigen-specific CD4+ T-cell lines",
+    "annotation": {
+      "IL-2": "[('Protein', 0.0)]",
+      "IL-2R": "[('Protein', 0.0)]",
+      "CD4+": "[('Protein', 0.0)]"
+    },
+    "spacy_annotation": {
+      "IL-2 receptor": "[('Protein', 1)]",
+      "gamma chains": "[('Protein', 1)]",
+      "IL-2R beta": "[('Protein', 1)]",
+      "IL-2R gamma": "[('Protein', 1)]",
+      "CD4+": "[('Protein', 1)]"
+    }
+  },
+  "105": {
+    "sentence": " Thus, after 4 hr of exposure to SEA and SEB, the expression of IL-2R beta was down-regulated, IL-2R gamma was slightly up-regulated, while IL-2R alpha remained largely unaffected",
+    "annotation": { "IL-2R": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "SEB": "[('Protein', 1)]",
+      "IL-2R beta": "[('Protein', 1)]",
+      "IL-2R": "[('Protein', 1)]",
+      "IL-2R alpha": "[('Protein', 1)]"
+    }
+  },
+  "106": {
+    "sentence": " The changes in the composition of IL-2Rs were accompanied by inhibition of IL-2-induced tyrosine phosphorylation of the Janus protein-tyrosine kinase 3 (Jak3) and signal transducers and activators of transcription called Stat3 and Stat5",
+    "annotation": {},
+    "spacy_annotation": {
+      "IL-2Rs": "[('Protein', 1)]",
+      "IL-2-induced tyrosine": "[('Protein', 1)]",
+      "Janus protein-tyrosine kinase 3": "[('Protein', 1)]",
+      "Jak3": "[('Protein', 1)]",
+      "signal transducers": "[('Protein', 1)]",
+      "Stat3": "[('Protein', 1)]",
+      "Stat5": "[('Protein', 1)]"
+    }
+  },
+  "107": {
+    "sentence": " In parallel experiments, IL-2-driven proliferation was inhibited significantly",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "108": {
+    "sentence": " After 16 hr of exposure to SE, the expression of IL-2R beta remained low, while that of IL2R alpha and IL2R gamma was further up-regulated, and ligand-induced tyrosine phosphorylation of Jak3 and Stat proteins was partly normalized",
+    "annotation": {
+      "IL-2R": "[('Protein', 0.0)]",
+      "IL2R": "[('Protein', 0.0)]"
+    },
+    "spacy_annotation": {
+      "IL-2R beta": "[('Protein', 1)]",
+      "IL2R alpha": "[('Protein', 1)]",
+      "IL2R": "[('Protein', 1)]",
+      "Jak3": "[('Protein', 1)]",
+      "Stat": "[('Protein', 1)]"
+    }
+  },
+  "109": {
+    "sentence": " Yet, IL-2-driven proliferation remained profoundly inhibited, suggesting that signaling events other than Jak3/Stat activation had also been changed following SE stimulation",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "110": {
+    "sentence": " In conclusion, our data suggest that SE can modulate IL-2R expression and signal transduction involving the Jak/Stat pathway in CD4+ T-cell lines",
+    "annotation": {
+      "IL-2R": "[('Protein', 0.0)]",
+      "CD4+": "[('Protein', 0.0)]"
+    },
+    "spacy_annotation": {
+      "IL-2R": "[('Protein', 1)]",
+      "CD4": "[('Protein', 1)]"
+    }
+  },
+  "111": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "112": {
+    "sentence": "Interferon-alpha induction of STATs1, -3 DNA binding and growth arrest is independent of Lck and active mitogen-activated kinase in T cells",
+    "annotation": {},
+    "spacy_annotation": {
+      "STATs1": "[('Protein', 1)]",
+      "Lck": "[('Protein', 1)]",
+      "mitogen-activated kinase in": "[('Protein', 1)]"
+    }
+  },
+  "113": {
+    "sentence": " \nType I interferons (IFNs) are a family of cytokines that have antiviral and antiproliferative effects",
+    "annotation": {},
+    "spacy_annotation": { "Type I interferons": "[('Protein', 1)]" }
+  },
+  "114": {
+    "sentence": " Data regarding the processes by which these cytokines transduce signals from the cell membrane to the nucleus are becoming increasingly complex",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "115": {
+    "sentence": " The most characterized pathway is via JAK-STAT signaling",
+    "annotation": {},
+    "spacy_annotation": { "JAK-STAT": "[('Protein', 1)]" }
+  },
+  "116": {
+    "sentence": " Previous studies established a potential role for the Src-family kinase Lck in JAK-STAT signaling",
+    "annotation": {},
+    "spacy_annotation": {
+      "Src-family": "[('Protein', 1)]",
+      "Lck": "[('Protein', 1)]",
+      "JAK-STAT": "[('Protein', 1)]"
+    }
+  },
+  "117": {
+    "sentence": " Therefore, this study was designed to analyze the role of Lck in IFN-alpha signaling by using the Jurkat, JCam (an Lck-defective cell line derived from Jurkat), and JCam/Lck (JCam cells with Lck restored)",
+    "annotation": {},
+    "spacy_annotation": {
+      "Lck": "[('Protein', 1)]",
+      "JCam": "[('Protein', 1)]"
+    }
+  },
+  "118": {
+    "sentence": " The results show that IFN-alpha can induce MAPK activity, but only in cells containing Lck",
+    "annotation": {},
+    "spacy_annotation": {
+      "MAPK": "[('Protein', 1)]",
+      "Lck": "[('Protein', 1)]"
+    }
+  },
+  "119": {
+    "sentence": " Furthermore, STATs1 and -3 are effectively phosphorylated and activated to bind DNA in the absence of Lck expression in IFN-alpha-treated cells",
+    "annotation": {},
+    "spacy_annotation": { "Lck": "[('Protein', 1)]" }
+  },
+  "120": {
+    "sentence": " Finally, the results demonstrate that IFN-alpha exerts an antiproliferative effect in all three cell lines",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "121": {
+    "sentence": " These data indicate that Lck and active MAPK do not affect IFN-alpha-induced growth arrest or induction of STAT1s1 and -3 DNA binding ability",
+    "annotation": {},
+    "spacy_annotation": {
+      "Lck": "[('Protein', 1)]",
+      "MAPK": "[('Protein', 1)]",
+      "-3 DNA": "[('Protein', 1)]"
+    }
+  },
+  "122": {
+    "sentence": " Copyright 1999 Academic Press",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "123": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "124": {
+    "sentence": "Expression of Th1 and Th2 type cytokines responding to HBsAg and HBxAg in chronic hepatitis B patients",
+    "annotation": {},
+    "spacy_annotation": {
+      "Th1": "[('Protein', 1)]",
+      "HBsAg": "[('Protein', 1)]",
+      "HBxAg": "[('Protein', 1)]"
+    }
+  },
+  "125": {
+    "sentence": " \nThe cytokine pattern on viral antigen recognition is believed to exert a profound influence on the resolution of viral infections and viral clearance",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "126": {
+    "sentence": " This study was initiated to investigate whether a cytokine imbalance oriented toward Th2 type response plays a role in chronic hepatitis B",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "127": {
+    "sentence": " Cytokine profiles of peripheral blood mononuclear cells associated with chronic hepatitis B were analysed by RT-PCR",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "128": {
+    "sentence": " Upon HBsAg stimulation, expression of IFN-gamma, IL-2, IL-4, and IL-10 was detected in 41%, 8%, 41%, and 50% of the patients, respectively",
+    "annotation": {
+      "IL-2": "[('Protein', 0.0)]",
+      "IL-4": "[('Protein', 0.0)]",
+      "IL-10": "[('Protein', 0.0)]"
+    },
+    "spacy_annotation": {
+      "IFN-gamma": "[('Protein', 1)]",
+      "IL-2": "[('Protein', 1)]",
+      "IL-4": "[('Protein', 1)]",
+      "IL-10": "[('Protein', 1)]"
+    }
+  },
+  "129": {
+    "sentence": " Among these cytokines, the expression of IFN-gamma was associated with high levels of serum AST/ALT",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "130": {
+    "sentence": " However, we could not prove that Th2 type cytokines had a protective effect on hepatocytes",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "131": {
+    "sentence": " Upon HBxAg stimulation, there was no recognizable association of cytokine patterns with AST/ALT levels",
+    "annotation": {},
+    "spacy_annotation": {
+      "HBxAg": "[('Protein', 1)]",
+      "AST/ALT": "[('Protein', 1)]"
+    }
+  },
+  "132": {
+    "sentence": " In conclusion, production of a Th1 cytokine, IFN-gamma, by HBsAg-reactive cells was associated with hepatocyte damage in chronic hepatitis B, while no counteracting effect of Th2 cytokines produced by those cells was observed",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "133": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "134": {
+    "sentence": "Multiple NF-ATc isoforms with individual transcriptional properties are synthesized in T lymphocytes",
+    "annotation": {},
+    "spacy_annotation": { "NF-ATc": "[('Protein', 1)]" }
+  },
+  "135": {
+    "sentence": " \nThe transcription factor NF-ATc that controls gene expression in T lymphocytes and embryonic cardiac cells is expressed in three prominent isoforms",
+    "annotation": {},
+    "spacy_annotation": { "NF-ATc": "[('Protein', 1)]" }
+  },
+  "136": {
+    "sentence": " This is due to alternative splice/polyadenylation events that lead to the predominant synthesis of two long isoforms in naive T cells and a shorter NF-ATc isoform in effector T cells",
+    "annotation": {},
+    "spacy_annotation": { "NF-ATc": "[('Protein', 1)]" }
+  },
+  "137": {
+    "sentence": " Whereas the previously described isoform NF-ATc/A contains a relatively short C terminus, the longer isoforms, B and C, span extra C-terminal peptides of 128 and 246 aa, respectively",
+    "annotation": {},
+    "spacy_annotation": { "B": "[('Protein', 1)]" }
+  },
+  "138": {
+    "sentence": " We show here that in addition to the strong N-terminal trans-activation domain, TAD-A, which is common to all three NF-ATc isoforms, NF-ATc/C contains a second trans-activation domain, TAD-B, in its C-terminal peptide",
+    "annotation": {},
+    "spacy_annotation": {
+      "TAD-A": "[('Protein', 1)]",
+      "NF-ATc": "[('Protein', 1)]"
+    }
+  },
+  "139": {
+    "sentence": " Various stimuli of T cells that induce the activity of TAD-A also enhance the activity of TAD-B, but, unlike TAD-A, TAD-B remains unphosphorylated by protein from 12-O-tetradecanoyl 12-phorbol 13-acetate-stimulated T cells",
+    "annotation": {},
+    "spacy_annotation": { "TAD-A": "[('Protein', 1)]" }
+  },
+  "140": {
+    "sentence": " The shorter C-terminal peptide of isoform NF-ATc/B exerts a suppressive transcriptional effect",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "141": {
+    "sentence": " These properties of NF-ATc/B and -C might be of importance for gene regulation in naive T lymphocytes in which NF-ATc/B and -C are predominantly synthesized",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "142": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "143": {
+    "sentence": "Mutation of Jak3 in a patient with SCID: essential role of Jak3 in lymphoid development",
+    "annotation": {},
+    "spacy_annotation": { "Jak3": "[('Protein', 1)]" }
+  },
+  "144": {
+    "sentence": " \nMales with X-linked severe combined immunodeficiency (XSCID) have defects in the common cytokine receptor gamma chain (gamma c) gene that encodes a shared, essential component of the receptors of interleukin-2 (IL-2), IL-4, IL-7, IL-9, and IL-15",
+    "annotation": {
+      "IL-2": "[('Protein', 0.0)]",
+      "IL-4": "[('Protein', 0.0)]",
+      "IL-7": "[('Protein', 0.0)]",
+      "IL-9": "[('Protein', 0.0)]",
+      "IL-15": "[('Protein', 0.0)]"
+    },
+    "spacy_annotation": {
+      "gamma c)": "[('Protein', 1)]",
+      "interleukin-2": "[('Protein', 1)]",
+      "IL-2": "[('Protein', 1)]",
+      "IL-4": "[('Protein', 1)]",
+      "IL-7": "[('Protein', 1)]",
+      "IL-9": "[('Protein', 1)]",
+      "IL-15": "[('Protein', 1)]"
+    }
+  },
+  "145": {
+    "sentence": " The Janus family tyrosine kinase Jak3 is the only signaling molecule known to be associated with gamma c, so it was hypothesized that defects in Jak3 might cause an XSCID-like phenotype",
+    "annotation": {},
+    "spacy_annotation": {
+      "Janus family tyrosine kinase": "[('Protein', 1)]",
+      "Jak3": "[('Protein', 1)]",
+      "gamma c": "[('Protein', 1)]"
+    }
+  },
+  "146": {
+    "sentence": " A girl with immunological features indistinguishable from those of XSCID was therefore selected for analysis",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "147": {
+    "sentence": " An Epstein-Barr virus (EBV)-transformed cell line derived from her lymphocytes had normal gamma c expression but lacked Jak3 protein and had greatly diminished Jak3 messenger RNA",
+    "annotation": {},
+    "spacy_annotation": { "Jak3": "[('Protein', 1)]" }
+  },
+  "148": {
+    "sentence": " Sequencing revealed a different mutation on each allele: a single nucleotide insertion resulting in a frame shift and premature termination in the Jak3 JH4 domain and a nonsense mutation in the Jak3 JH2 domain",
+    "annotation": {},
+    "spacy_annotation": { "Jak3": "[('Protein', 1)]" }
+  },
+  "149": {
+    "sentence": " The lack of Jak3 expression correlated with impaired B cell signaling, as demonstrated by the inability of IL-4 to activate Stat6 in the EBV-transformed cell line from the patient",
+    "annotation": { "IL-4": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "Jak3": "[('Protein', 1)]",
+      "IL-4": "[('Protein', 1)]",
+      "Stat6": "[('Protein', 1)]"
+    }
+  },
+  "150": {
+    "sentence": " These observations indicate that the functions of gamma c are dependent on Jak3 and that Jak3 is essential for lymphoid development and signaling",
+    "annotation": {},
+    "spacy_annotation": {
+      "gamma c": "[('Protein', 1)]",
+      "Jak3": "[('Protein', 1)]"
+    }
+  },
+  "151": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "152": {
+    "sentence": "CD14-mediated signal pathway of Porphyromonas gingivalis lipopolysaccharide in human gingival fibroblasts",
+    "annotation": { "CD14-mediated": "[('Protein', 0.0043029715)]" },
+    "spacy_annotation": {
+      "CD14-mediated": "[('Protein', 1)]",
+      "Porphyromonas gingivalis lipopolysaccharide": "[('Protein', 1)]"
+    }
+  },
+  "153": {
+    "sentence": " \nLipopolysaccharide (LPS) induces expression of inflammatory cytokines in monocytes/macrophages via CD14, one of the LPS receptors, which is expressed predominantly in these cells",
+    "annotation": { "CD14": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "CD14": "[('Protein', 1)]" }
+  },
+  "154": {
+    "sentence": " It has been demonstrated that Porphyromonas gingivalis LPS (P-LPS) also is able to induce inflammatory cytokines in human gingival fibroblasts",
+    "annotation": {},
+    "spacy_annotation": { "Porphyromonas gingivalis LPS": "[('Protein', 1)]" }
+  },
+  "155": {
+    "sentence": " Therefore, it is important to determine whether CD14 is expressed in gingival fibroblasts and to define the P-LPS-mediated signal-transducing mechanism in the cells",
+    "annotation": { "CD14": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "CD14": "[('Protein', 1)]" }
+  },
+  "156": {
+    "sentence": " In this study, we observed unexpectedly by immunohistochemical, Western blotting (immunoblotting), and Northern (RNA) blotting assays that CD14 is expressed at high density in human gingival fibroblasts",
+    "annotation": { "CD14": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "CD14": "[('Protein', 1)]" }
+  },
+  "157": {
+    "sentence": " P-LPS-induced expression of the monocyte chemoattractant protein 1 (MCP-1) gene in the cells was inhibited markedly by treatment with anti-human CD14 antibody and was completely inhibited by herbimycin A, a potent inhibitor of tyrosine kinase",
+    "annotation": { "CD14": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "monocyte chemoattractant protein 1": "[('Protein', 1)]"
+    }
+  },
+  "158": {
+    "sentence": " The inhibitor also dramatically inhibited monocyte chemotactic activity of and MCP-1 production by the cells",
+    "annotation": {},
+    "spacy_annotation": { "MCP-1": "[('Protein', 1)]" }
+  },
+  "159": {
+    "sentence": " Furthermore, P-LPS-induced expression of the MCP-1 gene in the cells also was blocked by inhibitors of two transcription factors, i",
+    "annotation": {},
+    "spacy_annotation": { "MCP-1": "[('Protein', 1)]" }
+  },
+  "160": { "sentence": "e", "annotation": {}, "spacy_annotation": {} },
+  "161": {
+    "sentence": ", curcumin, an inhibitor of AP-1, and pyrolidine dithiocarbamate, an inhibitor of NF-kappaB",
+    "annotation": { "AP-1": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "AP-1": "[('Protein', 1)]",
+      "NF-kappaB": "[('Protein', 1)]"
+    }
+  },
+  "162": {
+    "sentence": " Both inhibitors inhibited monocyte chemotactic activity in the culture supernatant of P-LPS-treated cells",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "163": {
+    "sentence": " Gel shift mobility assay showed stimulation of the AP-1 and NF-kappaB contents in P-LPS-treated cells",
+    "annotation": { "AP-1": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "AP-1": "[('Protein', 1)]",
+      "NF-kappaB": "[('Protein', 1)]"
+    }
+  },
+  "164": {
+    "sentence": " This study is the first to demonstrate the expression of CD14 in human gingival fibroblasts and to show that the signal-transducing pathway of P-LPS in the cells is mediated by CD14",
+    "annotation": { "CD14": "[('Protein', 0.01574143)]" },
+    "spacy_annotation": { "CD14": "[('Protein', 1)]" }
+  },
+  "165": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "166": {
+    "sentence": "Increased glucocorticoid receptor beta in airway cells of glucocorticoid-insensitive asthma",
+    "annotation": {},
+    "spacy_annotation": { "glucocorticoid receptor beta": "[('Protein', 1)]" }
+  },
+  "167": {
+    "sentence": " \nGlucocorticoid (GC)-insensitive asthma is a challenging clinical problem that can be associated with life-threatening disease progression",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "168": {
+    "sentence": " The molecular basis of GC insensitivity is unknown",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "169": {
+    "sentence": " Alternative splicing of the GC receptor (GCR) pre-mRNA generates a second GCR, termed GCRbeta, which does not bind GC but antagonizes the transactivating activity of the classic GCR",
+    "annotation": {},
+    "spacy_annotation": { "GCRbeta": "[('Protein', 1)]" }
+  },
+  "170": {
+    "sentence": " Thus increased expression of GCRbeta could account for glucocorticoid insensitivity",
+    "annotation": {},
+    "spacy_annotation": { "GCRbeta": "[('Protein', 1)]" }
+  },
+  "171": {
+    "sentence": " Bronchoalveolar lavage (BAL) cells and peripheral blood mononuclear cells (PBMC) were examined for GCRbeta immunoreactivity using a GCRbeta-specific antibody by immunohistochemical staining",
+    "annotation": {},
+    "spacy_annotation": { "GCRbeta": "[('Protein', 1)]" }
+  },
+  "172": {
+    "sentence": " Cell localization of GCRbeta expression was performed using a double immunostaining technique",
+    "annotation": {},
+    "spacy_annotation": { "GCRbeta": "[('Protein', 1)]" }
+  },
+  "173": {
+    "sentence": " Patients with GC-insensitive asthma expressed a significantly higher number of GCRbeta-immunoreactive cells in their BAL and peripheral blood than GC-sensitive asthmatics or normal control subjects",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "174": {
+    "sentence": " Furthermore, GCRbeta expression in GC-insensitive asthma was particularly high in airway T cells, which are thought to play a major role in the pathogenesis of asthma",
+    "annotation": {},
+    "spacy_annotation": { "GCRbeta": "[('Protein', 1)]" }
+  },
+  "175": {
+    "sentence": " We also examined the expression of GCRbeta in specimens from the airways of patients with chronic bronchitis",
+    "annotation": {},
+    "spacy_annotation": { "GCRbeta": "[('Protein', 1)]" }
+  },
+  "176": {
+    "sentence": " In chronic bronchitis, few cells were GCRbeta-positive and their numbers did not differ significantly from normal control subjects",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "177": {
+    "sentence": " We conclude that GC-insensitive asthma is associated with increased expression of GCRbeta in airway T cells",
+    "annotation": {},
+    "spacy_annotation": { "GCRbeta": "[('Protein', 1)]" }
+  },
+  "178": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "179": {
+    "sentence": "Abnormalities of cyclic adenosine monophosphate signaling in platelets from untreated patients with bipolar disorder",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "180": {
+    "sentence": " \nBACKGROUND: Abnormalities in the cyclic adenosine monophosphate (cAMP)-dependent phosphorylation system have been recently reported in patients with bipolar disorder",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "181": {
+    "sentence": " We evaluated the immunoreactivity of the regulatory and catalytic subunits of cAMP-dependent protein kinase (protein kinase A) and 1 of its substrates, Rap1, in platelets from untreated euthymic, manic, and depressed patients with bipolar disorder and healthy subjects",
+    "annotation": { "Rap1": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "cAMP-dependent protein kinase (protein kinase A": "[('Protein', 1)]",
+      "Rap1": "[('Protein', 1)]"
+    }
+  },
+  "182": {
+    "sentence": " METHODS: Platelets were collected from 112 drug-free patients with bipolar disorder (52 euthymic, 29 depressed, and 31 manic) and 62 healthy subjects",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "183": {
+    "sentence": " The levels of cAMP-dependent protein kinase and Rap1 were assessed by Western blot analysis, immunostaining, and computer-assisted imaging",
+    "annotation": { "Rap1": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "cAMP-dependent protein kinase": "[('Protein', 1)]",
+      "Rap1": "[('Protein', 1)]"
+    }
+  },
+  "184": {
+    "sentence": " RESULTS: The immunolabeling of the catalytic subunit of cAMP-dependent protein kinase was significantly different among groups (P<",
+    "annotation": {},
+    "spacy_annotation": { "cAMP-dependent protein kinase": "[('Protein', 1)]" }
+  },
+  "185": {
+    "sentence": "001), with higher values in untreated depressed and manic patients with bipolar disorder compared with untreated euthymic patients with bipolar disorder and healthy subjects",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "186": {
+    "sentence": " No significant differences were found in the immunolabeling of the regulatory subunits (type I and type II) of cAMP-dependent protein kinase",
+    "annotation": {},
+    "spacy_annotation": { "cAMP-dependent protein kinase": "[('Protein', 1)]" }
+  },
+  "187": {
+    "sentence": " The immunolabeling of Rap1 was significantly higher (P<",
+    "annotation": { "Rap1": "[('Protein', 0.0012755139)]" },
+    "spacy_annotation": { "Rap1": "[('Protein', 1)]" }
+  },
+  "188": {
+    "sentence": "001) in untreated euthymic, depressed, and manic patients than in healthy persons",
+    "annotation": {},
+    "spacy_annotation": {}
+  },
+  "189": {
+    "sentence": " CONCLUSIONS: Levels of Rap1 and the catalytic subunit of cAMP-dependent protein kinase are altered in the platelets of bipolar patients",
+    "annotation": { "Rap1": "[('Protein', 0.0012755139)]" },
+    "spacy_annotation": {
+      "Rap1": "[('Protein', 1)]",
+      "cAMP-dependent protein kinase": "[('Protein', 1)]"
+    }
+  },
+  "190": {
+    "sentence": " These findings may provide clues toward understanding the involvement of cAMP signaling in the pathogenesis of bipolar disorder",
+    "annotation": {},
+    "spacy_annotation": { "cAMP": "[('Protein', 1)]" }
+  },
+  "191": { "sentence": " ", "annotation": {}, "spacy_annotation": {} },
+  "192": {
+    "sentence": "Interleukin 2 signaling involves the phosphorylation of Stat proteins",
+    "annotation": {},
+    "spacy_annotation": {
+      "Interleukin 2": "[('Protein', 1)]",
+      "Stat": "[('Protein', 1)]"
+    }
+  },
+  "193": {
+    "sentence": " \nOne of the most important cytokines involved in immune response regulation is interleukin 2 (IL-2), a potent activator of the proliferation and function of T lymphocytes and natural killer cells",
+    "annotation": { "IL-2": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "interleukin 2": "[('Protein', 1)]",
+      "IL-2": "[('Protein', 1)]"
+    }
+  },
+  "194": {
+    "sentence": " The mechanisms by which the effects of IL-2 are propagated within cells are not understood",
+    "annotation": { "IL-2": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "IL-2": "[('Protein', 1)]" }
+  },
+  "195": {
+    "sentence": " While the binding of IL-2 to its receptor was recently shown to lead to the activation of two kinases, Jak-1 and Jak-3, subsequent steps in the signaling pathway to the nucleus that lead to the activation of specific genes had not been characterized",
+    "annotation": { "IL-2": "[('Protein', 0.0012755139)]" },
+    "spacy_annotation": {
+      "IL-2": "[('Protein', 1)]",
+      "Jak-1": "[('Protein', 1)]",
+      "Jak-3": "[('Protein', 1)]"
+    }
+  },
+  "196": {
+    "sentence": " Since many cytokines that activate Jak kinases also lead to the tyrosine phosphorylation and activation of members of the Stat family of transcription factors, the ability of IL-2 to trigger Stat phosphorylation was examined",
+    "annotation": { "IL-2": "[('Protein', 0.0)]" },
+    "spacy_annotation": {
+      "Jak kinases": "[('Protein', 1)]",
+      "Stat": "[('Protein', 1)]",
+      "IL-2": "[('Protein', 1)]"
+    }
+  },
+  "197": {
+    "sentence": " Exposure of activated human T lymphocytes or of a natural killer cell line (NKL) to IL-2 leads to the phosphorylation of Stat1 alpha, Stat1 beta, and Stat3, as well as of two Stat-related proteins, p94 and p95",
+    "annotation": {
+      "IL-2": "[('Protein', 0.0)]",
+      "p94": "[('Protein', 0.0)]",
+      "p95": "[('Protein', 0.0)]"
+    },
+    "spacy_annotation": {
+      "IL-2": "[('Protein', 1)]",
+      "Stat1 alpha": "[('Protein', 1)]",
+      "Stat1 beta": "[('Protein', 1)]",
+      "Stat3": "[('Protein', 1)]",
+      "Stat-related": "[('Protein', 1)]",
+      "p94": "[('Protein', 1)]",
+      "p95": "[('Protein', 1)]"
+    }
+  },
+  "198": {
+    "sentence": " p94 and p95 share homology with Stat1 at the phosphorylation site and in the Src homology 2 (SH2) domain, but otherwise are immunologically distinct from Stat1",
+    "annotation": {
+      "p94": "[('Protein', 0.0)]",
+      "p95": "[('Protein', 0.0013296766)]"
+    },
+    "spacy_annotation": {
+      "p94": "[('Protein', 1)]",
+      "p95": "[('Protein', 1)]",
+      "Stat1": "[('Protein', 1)]",
+      "Src": "[('Protein', 1)]",
+      "SH2": "[('Protein', 1)]"
+    }
+  },
+  "199": {
+    "sentence": " These Stat proteins were found to translocate to the nucleus and to bind to a specific DNA sequence",
+    "annotation": {},
+    "spacy_annotation": { "Stat": "[('Protein', 1)]" }
+  },
+  "200": {
+    "sentence": " These findings suggest a mechanism by which IL-2 binding to its receptor may activate specific genes involved in immune cell function",
+    "annotation": { "IL-2": "[('Protein', 0.0)]" },
+    "spacy_annotation": { "IL-2": "[('Protein', 1)]" }
+  },
+  "201": { "sentence": " ", "annotation": {}, "spacy_annotation": {} }
+}
