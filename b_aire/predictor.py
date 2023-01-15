@@ -23,13 +23,13 @@ class Predictor:
         models = self.models
         predictions = []
         score = 0.0
-        alpha = 0.0001
+        alpha = 0.0
         for _class in self.classes :
             if _class in models :
                 tmp = data
                 real = np.array(tmp).reshape(1,len(tmp))
                 tmp_prediction = models[_class].predict( real )[0][0]
-                if tmp_prediction >= alpha and tmp_prediction <= 1.0 : 
+                if tmp_prediction > alpha : # and tmp_prediction <= 1.0 : 
                     score = tmp_prediction
                 predictions.append((_class, score))
-        return score >= 0.0            
+        return score > 0.0, score            

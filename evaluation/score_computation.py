@@ -39,12 +39,12 @@ class ScoreComputation:
                     score = ast.literal_eval(annotation_tmp[entity])[0][1]
                     n = len(_entity) 
                     if self.tool == 'annotation' :
-                        if n > 2 and n <= 10 :
+                        if n > 2 and n <= 10 : # n == 10: # 
                             _res = self.getType(value=_entity, score=score)
                             self.recaps[_res] += 1
                             
                     if self.tool != 'annotation' :
-                        if n > 2  and n <= 10 :
+                        if  n > 2  and n <= 10 : # n == 10: #
                             _res = self.getType(value=entity)
                             self.recaps[_res] += 1 
             else:

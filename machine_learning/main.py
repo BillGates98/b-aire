@@ -10,7 +10,7 @@ class MachineLearning:
     
     def __init__(self, learning_file='', suffix=None):
         tmp = pd.read_csv(learning_file)
-        self.data = tmp.query('length > 2 & length <= 10')
+        self.data = tmp.query('length > 2 & length <= 10 & klass == 2')[0:10000]
         print(len(self.data))
         self.x_train = None
         self.y_train = None

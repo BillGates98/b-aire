@@ -56,8 +56,8 @@ class TextAnnotation:
             self.inverted_types[id] = value
         return self.types
 
-    def save(self, token='', output={}):
-        output[token] = [('Protein', 1.0)]
+    def save(self, token='', score='', output={}):
+        output[token] = [('Protein', score if score < 1.0 else 1.0 )]
         return output
 
     def recognition(self, text=[], m=0, round=0, depth=0, output={}):
@@ -67,26 +67,26 @@ class TextAnnotation:
         if n - 1 >= m and t[m] != None :
             if m == round:
                 vector = [m, round, len(t[m]), depth, 1]
-                predicted = self.predictor.single_prediction(data=vector)
+                predicted, score = self.predictor.single_prediction(data=vector)
                 if predicted :
-                    _output = self.save(token=t[m], output=_output)
+                    _output = self.save(token=t[m], score=score, output=_output)
                 _output = (self.recognition(text=text, m=m, round=round + 1, depth=depth+1, output=_output))
                 return _output
             else:
                 i = m
                 if round > 0:
                     vector = [m, round, len(t[m]), depth, 1]
-                    predicted = self.predictor.single_prediction(data=vector)
+                    predicted, score = self.predictor.single_prediction(data=vector)
                     if predicted : 
-                        _output = self.save(token=t[m], output=_output)
+                        _output = self.save(token=t[m], score=score, output=_output)
                 tmp = t[i]
                 while i < len(t) - 1 and len(tmp.split(' ')) <= 3 :
                     i = i + 1
                     tmp = tmp + ' ' + t[i]
                     vector = [m, round, len(t[m]), depth, i-m]
-                    predicted = self.predictor.single_prediction(data=vector)
+                    predicted, score = self.predictor.single_prediction(data=vector)
                     if predicted :
-                        _output = self.save(token=tmp, output=_output)
+                        _output = self.save(token=tmp, score=score, output=_output)
                 if m < n-1:
                     _output = self.recognition(text=text, m=m+1, depth=depth+1, output=_output)
         return _output
@@ -132,7 +132,7 @@ class TextAnnotation:
 def parallel_running(data=[], index=0):
     texts = []
     print('Process number : ', index)
-    for value in data[0:1]:
+    for value in data:
         texts = texts + value.split('.')
     result = TextAnnotation(data=texts).run()
     return result
