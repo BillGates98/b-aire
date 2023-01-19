@@ -1,0 +1,1 @@
+SNPs unique to each method characterized by the five most common splits found. Figure S1. Runtime comparison for the whole-genome alignment methods on the simulated 32-genome E. coli W3110 dataset. Figure S2. Timing performance from 32 to 10,000 S. pneumoniae genomes. 

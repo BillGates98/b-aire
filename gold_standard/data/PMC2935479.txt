@@ -1,0 +1,1 @@
+The sequence of external solutions perfusing the ZmSUT1-expressing oocyte was the following: 1) from pH 3 to 7 in steps of one pH unit in absence of external sucrose, 2) going to pH 4, in the absence of external sucrose and finally 3) applying saturating concentration of external sucrose at pH 4. 

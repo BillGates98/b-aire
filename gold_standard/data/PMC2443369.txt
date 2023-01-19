@@ -1,0 +1,1 @@
+The transcripts of bacterial virulence-associated genes ciaB, dnaJ and racR in invaded/adhered, suspended and those bacteria treated with various media were quantitatively determined by qPCR relative to 16S rRNA, by use of the 2-ΔΔCt method previously described [41]. 

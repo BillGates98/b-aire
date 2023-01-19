@@ -1,0 +1,1 @@
+Actual AHI from PSG, ODI3, ODI4, and estimated AHI from the proposed oximetry-based MLP ANN both in the hospital and at home of each subject in the COPD test dataset. 

@@ -147,8 +147,8 @@ class Parser:
         for x in lines:
             tmp = x.replace('\n', '').split('\t')
             tmp[1] = tmp[1].lstrip().split(' ')[0]
-            if len(tmp) == 3:
-                result.append((tmp[1], tmp[2]))
+            if len(tmp)%2 == 1:
+                result.append((tmp[1], tmp[4]))
         f.close()
         return result
 
@@ -173,7 +173,7 @@ class Parser:
                         self.Global[name] = []
                     if not type in self.Global[name]:
                         self.Global[name].append(type)
-                        if type == 'Protein' :
+                        if type in ['Protein', 'GP'] :
                             _ = self.migrator.insert_annotation(source=self.source, type=type, name=name)
         print('Data is migrating ...%')
         
@@ -216,9 +216,12 @@ class Parser:
         
         if self.source == 'genia' :
             _, data = self.alvisnlpdatasets()
+        
+        if self.source == 'cineca' :
+            _, data = self.alvisnlpdatasets()
             
-        # self.pushToDictionnary(data=data)
-        # self.generate_unique_types()
+        self.pushToDictionnary(data=data)
+        self.generate_unique_types()
         return self.source, data
         
     ###  

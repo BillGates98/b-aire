@@ -1,0 +1,1 @@
+Normalization was applied as ratio of phospho ERK/total ERK signals. 

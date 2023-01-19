@@ -1,0 +1,1 @@
+A549 lung cancer cells were grown in RPMI 1640 medium supplemented with 10 % FBS. 

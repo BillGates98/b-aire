@@ -1,0 +1,1 @@
+Male visible human segment mass (as % of body mass) of the high-resolution mesh, convex hull, regression model and average values. 

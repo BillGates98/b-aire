@@ -1,0 +1,1 @@
+A csv file containing the black bear distance data that was analyzed in the manuscript; this file is required by PlosOneMRDSAnalysis.txt. 

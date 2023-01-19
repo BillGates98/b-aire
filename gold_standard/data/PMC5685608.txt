@@ -1,0 +1,1 @@
+EC50s for ISO and HAL for the the global KO and control mice in the LORR assay. 

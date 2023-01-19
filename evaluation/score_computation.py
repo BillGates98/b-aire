@@ -53,10 +53,10 @@ class ScoreComputation:
     def getType(self, value="", score=0):
         res = self.migrator.fetchBy(table="annotation", field="name", _value='%'+value+'%', result_value="type")
         if len(res) > 0 :
-            if 'Protein' in res :
+            if 'Protein' or 'GP' in res :
                 return '11'
             else:
-                if not 'Protein' in res :
+                if not ('Protein' or 'GP') in res :
                     return '01'
         else:
             output[value] = 0
@@ -81,6 +81,7 @@ class ScoreComputation:
         print('Precision : ', precision)
         print('Recall : ', recall)
         print('Fmeasure : ', fmeasure)
+        print(precision, '&', recall, '&', fmeasure)
         return precision, recall, fmeasure
 
     def run(self):
@@ -99,7 +100,7 @@ def saveEvaluation(data=[], file=''):
 if __name__ == '__main__':
     def arg_manager():
         parser = argparse.ArgumentParser()
-        parser.add_argument("--checking", type=str, default="../outputs/data/data.json")
+        parser.add_argument("--checking", type=str, default="../outputs/data/data_cineca.json")
         return parser.parse_args()
     args = arg_manager()
     valid = args.checking
@@ -111,7 +112,7 @@ if __name__ == '__main__':
     data_fmeasure = {}
     data_precision['Sample-size'] = []
     data_fmeasure['Sample-size'] = []
-    for i in range(50, 3000, 50):
+    for i in range(10, 700, 10):
         data_precision['Sample-size'].append(i)
         data_fmeasure['Sample-size'].append(i)
         for tool in tool_indexs :

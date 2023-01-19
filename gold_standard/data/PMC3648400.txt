@@ -1,0 +1,1 @@
+All images of molecular structures were created by using Pybel [29,30]. Table S3 lists the top-ranked ES descriptors of 178 carboxylic acid PPARγ agonists against cellular reactions, without the inclusion of Jurs_RNCG. 

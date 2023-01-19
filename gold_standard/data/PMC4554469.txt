@@ -1,0 +1,1 @@
+The PCR programmes were as follows: initial denaturation at 98°C for 3 min, 30 cycles (35 cycles for archaea) of denaturation at 98°C for 10 s, annealing at 55°C (57°C for archaea) for 45 s and elongation at 72°C for 45 s, followed by a final extension step of 7 min at 72°C. 

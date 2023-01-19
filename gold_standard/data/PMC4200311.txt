@@ -1,0 +1,1 @@
+Genes are sorted by their genomic distance to SCN1B (indicated underneath matrix). 

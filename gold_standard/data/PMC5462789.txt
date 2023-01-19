@@ -1,0 +1,1 @@
+More recently, a study was performed in the context of epilepsy where a physiologically-plausible computational model of epileptogenic networks was used as a ground truth. 

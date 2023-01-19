@@ -1,0 +1,1 @@
+Median-joining network diagrams were constructed using the software Network 4.600 to illustrate the phylogenetic relationships among all pfcrt sequences for each period [56], [58]. 

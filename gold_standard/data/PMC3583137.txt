@@ -1,0 +1,1 @@
+   input : q1, q2 - quorum restriction on human and viral miRNAs 

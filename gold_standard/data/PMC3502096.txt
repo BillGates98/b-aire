@@ -1,0 +1,1 @@
+ACH: Active chromatin hub; bp: base pair; CEF: Chicken embryonic fibroblast; CTCF: CCCTC-binding factor; HS: Site of hypersensitivity to DNase I; LCR: Locus control region; RBC: Red blood cell; RT-qPCR: real-time reverse transcriptase polymerase chain reaction; 3C-qPCR: quantitative chromosome conformation capture assay. 

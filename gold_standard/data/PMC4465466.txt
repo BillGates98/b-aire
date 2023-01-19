@@ -1,0 +1,1 @@
+Two-way ANOVA with Bonferroni post-hoc tests shows significant statistical difference between WT and Clk (p < 0.01). (D) Quantification of C/EBPβ protein levels under constant darkness (DD) conditions from three independent experiments including the blot shown in Fig. 6a. 

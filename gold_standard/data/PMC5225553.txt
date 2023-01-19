@@ -1,0 +1,1 @@
+Average Ct values of two technical replicates for each iGluR gene in all nervous system ganglia of Aplysia used to calculate copy numbers for each subunit. 

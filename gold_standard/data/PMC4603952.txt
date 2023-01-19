@@ -1,0 +1,1 @@
+Moran’s I test results for spatial autocorrelation in seasonal E. coli and TSS data. 

@@ -1,0 +1,1 @@
+A Maximum Likelihood phylogeny under the BINGAMMA model and with the water buffalo as outgroup was then computed for each alignment with sufficient data using RaxML (Stamatakis 2014). 

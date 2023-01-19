@@ -1,0 +1,1 @@
+A path intending to get a complete coverage of the conformational space, given a series of constraints, is usually not taken, although such an approach could provide precious information about the conformational equilibrium, which is essential in the function of many proteins, as the HIV protease [1]. 

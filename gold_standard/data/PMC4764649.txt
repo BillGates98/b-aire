@@ -1,0 +1,1 @@
+For P7, but not for P20 - 24 cells, the mIPSC T50 distribution is left-shifted indicating that all mIPSCs recorded from P7 GFP + cells treated with intracellular γ-CD, exhibited faster decay kinetics, compared with control (p < 0.001, KS-test). E). 

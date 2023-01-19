@@ -1,0 +1,1 @@
+Maximum likelihood phylogenetic tree (bootstrap = 50) of four putative yieF genes from the Microbacterium sp. isolates, closely related homologs, and representative chromate reductase genes. 

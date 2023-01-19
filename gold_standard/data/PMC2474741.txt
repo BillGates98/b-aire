@@ -1,0 +1,1 @@
+No significant difference (ANOVA, F(2,2) = 0.90, P = 0.422) was observed between full-culture conditions, culture without Matrigel and culture without Matrigel and Drosophila S2 cells. 

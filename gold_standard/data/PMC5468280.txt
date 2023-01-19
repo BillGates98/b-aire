@@ -1,0 +1,1 @@
+A mixed logistic regression model with diabetes clinics fitted as random effect was used for each renal outcome to estimate odds ratios (ORs) with their 95% confidence interval (95% CI). 

@@ -1,0 +1,1 @@
+The translocating ability of our peptidodendrimer is different from the most commonly used cell penetrating peptides (such as the HIV derived TAT peptide) and from the mechanism hypothesized for PAMAM dendrimers, which do not translocate spontaneously across bilayers but rather are taken up by cells via endocytosis [21], [71]. 

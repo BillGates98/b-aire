@@ -1,0 +1,1 @@
+(n > 500) (C) The relative amount of pcr1+ mRNA was determined by RT-qPCR in spo5∆ cells harboring either the vector, the pcr1 +  clone, or the spo5 +  clone. 

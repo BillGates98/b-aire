@@ -1,0 +1,1 @@
+It needs more than 24GB to map 10 million 151 bp reads of human. 

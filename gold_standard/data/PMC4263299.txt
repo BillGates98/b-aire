@@ -1,0 +1,1 @@
+We anticipate that sequencing from small quantities of input DNA (<1 ng) will become a significant aid to genetic and genomic studies of P. falciparum in the field, particularly when combined with effective methods for removal of host DNA contamination. 

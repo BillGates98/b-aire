@@ -1,0 +1,1 @@
+Concerns the clinical information of the 318 breast cancer patients included in our study. 

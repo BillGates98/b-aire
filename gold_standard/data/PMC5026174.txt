@@ -1,0 +1,1 @@
+We assume that the outcomes (the total score on the Hamilton Rating Scale for Anxiety) are normally distributed with common standard deviation σ = 6. 

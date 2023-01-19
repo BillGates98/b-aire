@@ -1,0 +1,1 @@
+Finally we observed 99.98% genotype concordance in 12,581 overlapping SNPs between the 610 and CVD BeadChips. 

@@ -1,0 +1,1 @@
+(B) Pair-wise linkage disequilibrium between SNP, measured as r 2, was calculated using all 96 animals (24 cases and 72 controls) and plotted as a heatmap in Haploview. 

@@ -1,0 +1,1 @@
+For instance, diabetes is only incorporated into the ESII and STS models, while atrial fibrillation is only in the STS and German AV models. 

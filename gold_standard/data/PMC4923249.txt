@@ -1,0 +1,1 @@
+Principal component analysis (PCA) of 206 barley accessions. Population structure and dispersion of the association panel were shown through three dimensional (A) and two dimensional (B) diagrams. (C) Number detection of subpopulations or principal components. 
