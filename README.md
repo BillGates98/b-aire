@@ -68,7 +68,10 @@ python3 ./main.py
 > 4. Run recognition on entities : B-aire and SciSpacy
 # * B-aire
 cd ../b_aire/
-python3 ./main.py
+    # - genia
+    python3 ./main.py --path '../gold_standard/data/' --extension '.txt' --source 'genia' --outputf '../outputs/data/data.json' 
+    # - cineca 
+    python3 ./main.py --path '../data/genia/biogenia-test/' --extension '.txt' --source 'cineca' --outputf '../outputs/data/data.json' 
 
 # * SciSpacy
 cd ../spacy_annotation/
