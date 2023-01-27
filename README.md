@@ -1,4 +1,4 @@
-`The evaluations on bern2 are in progress ...`
+`The evaluations on bern2 took 57min on 633 documents and the results are in section Evaluation below`
 
 # B-aire : Biological - Artificial Intelligence for Entities Recognition.
 ## Simplified version _1.0_ .
@@ -96,6 +96,9 @@ python3 ./plot.py
 cd ../../
 echo "End of Running !"
 ```
+## Evaluation between B-aire, Bern2, Hunflair, SciSpacy
+
+(https://drive.google.com/file/d/1uNi_UEaLR9zYPsyngvh24NFssCrxSaP7/view?usp=sharing)
 
 ## License
 
