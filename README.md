@@ -98,7 +98,7 @@ echo "End of Running !"
 ```
 ## Evaluation between B-aire, Bern2, Hunflair, SciSpacy
 
-(https://drive.google.com/file/d/1uNi_UEaLR9zYPsyngvh24NFssCrxSaP7/view?usp=sharing)
+![Comparison between 4 tools on cineca](https://github.com/BillGates98/b-aire/blob/main/evaluation/visualization/global_fmeasure_comparing_cineca.png)
 
 ## License
 
