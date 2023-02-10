@@ -96,6 +96,10 @@ python3 ./plot.py
 cd ../../
 echo "End of Running !"
 ```
+## Evaluation between B-aire, Bern2, Hunflair, SciSpacy on Genia Dataset
+
+![Comparison between 4 tools on genia](https://github.com/BillGates98/b-aire/blob/main/evaluation/visualization/fmeasure_comparing_genia_final.png)
+
 ## Evaluation between B-aire, Bern2, Hunflair, SciSpacy on Cineca Dataset of European Project
 
 ![Comparison between 4 tools on cineca](https://github.com/BillGates98/b-aire/blob/main/evaluation/visualization/global_fmeasure_comparing_cineca.png)
