@@ -100,19 +100,19 @@ def saveEvaluation(data=[], file=''):
 if __name__ == '__main__':
     def arg_manager():
         parser = argparse.ArgumentParser()
-        parser.add_argument("--checking", type=str, default="../outputs/data/data_cineca.json")
+        parser.add_argument("--checking", type=str, default="../outputs/data/data.json")
         return parser.parse_args()
     args = arg_manager()
     valid = args.checking
     if args.checking.split('.')[-1] == 'json':
         valid = args.checking
-    tool_indexs = ['annotation', 'spacy_annotation', 'hunflair_annotation']
-    tools = {'annotation': 'B-aire', 'spacy_annotation': 'SciSpacy', 'hunflair_annotation': 'Hunflair'}
+    tool_indexs = ['annotation', 'spacy_annotation', 'hunflair_annotation', 'bern_annotation']
+    tools = {'annotation': 'B-aire', 'spacy_annotation': 'SciSpacy', 'hunflair_annotation': 'Hunflair', 'bern_annotation': 'Bern2'}
     data_precision = {}
     data_fmeasure = {}
     data_precision['Sample-size'] = []
     data_fmeasure['Sample-size'] = []
-    for i in range(10, 700, 10):
+    for i in range(50, 3000, 50):
         data_precision['Sample-size'].append(i)
         data_fmeasure['Sample-size'].append(i)
         for tool in tool_indexs :

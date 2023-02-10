@@ -8,7 +8,6 @@ import multiprocessing
 from datetime import datetime
 import argparse
 
-
 cachedStopWords = stopwords.words("english")
 bagOfWords = enchant.Dict("en_US")
 
@@ -145,7 +144,6 @@ def save_output(output_file='', output={}):
 
 def go(path='', extension='', source='', outputf='') :
     # get Data
-    texts = []
     start_time = datetime.now()
     # source, data_parseds = Parser(input_path='../data/genia/biogenia-test/', extensions=['.txt'], source='genia').samplesData()
     # source, data_parseds = Parser(input_path='../gold_standard/data/', extensions=['.txt'], source='cineca').samplesData()

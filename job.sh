@@ -1,9 +1,7 @@
 # Dependencies
 conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/
-python3.8 -m pip install tensorflow
-# Verify install :
-python3.8 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+python3 -m pip install tensorflow
 
 pip install scispacy
 pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_ner_bionlp13cg_md-0.5.1.tar.gz
